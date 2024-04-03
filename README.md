@@ -115,7 +115,7 @@ The datasets used in this project are not publicly available. However, the code 
 For any inquiries please contact:
 
 - Brandon Rufino - brandon.rufino@sanofi.com
-- Maksim Kriukov - maksim.kriukov@sanofi.com
+- Maxim Kryukov - maksim.kriukov@sanofi.com
 
 ## Code references
 
